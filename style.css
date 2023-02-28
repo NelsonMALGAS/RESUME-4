@@ -1,0 +1,24 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif; 
+    color: blueviolet;
+    font-size: 250%; 
+}
+h2,h3{
+    color: darkblue;
+    font-size: 200%;
+}
+h4,h5,h6{color: brown;}
+p{color:goldenrod;}
+a{ color:green;}
+
+body{background-color:lightblue;}
+
+menu{
+   background-color:  blueviolet;
+   background-size: contain;
+   font-style: italic;
+   box-shadow: inset;
+   padding: 10px;
+}
+header{background-color: yellowgreen;}
+article{background-color: aquamarine;}
